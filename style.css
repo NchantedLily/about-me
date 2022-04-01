@@ -42,4 +42,24 @@ h1{
             font-style: italic;
         }
 
-            
+        @media (max-width:400px){
+            body{
+                height:100vh;
+            }
+        }
+           /* Only change code below this line */ 
+             
+
+         /* Only change code above this line */
+
+
+
+
+
+
+
+
+
+
+
+
